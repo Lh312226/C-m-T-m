@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH.GUI", "QLBH.GUI\QLBH.GUI.csproj", "{7E72D573-13B7-4DB2-A0C2-ECDAAE6D4378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH.DAL", "QLBH.DAL\QLBH.DAL.csproj", "{0C71E48C-6FE7-4138-905A-DBCD2008AAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH.BLL", "QLBH.BLL\QLBH.BLL.csproj", "{96E3B5A9-4887-44F9-B2EA-85BFB6345A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E72D573-13B7-4DB2-A0C2-ECDAAE6D4378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E72D573-13B7-4DB2-A0C2-ECDAAE6D4378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E72D573-13B7-4DB2-A0C2-ECDAAE6D4378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E72D573-13B7-4DB2-A0C2-ECDAAE6D4378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C71E48C-6FE7-4138-905A-DBCD2008AAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C71E48C-6FE7-4138-905A-DBCD2008AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C71E48C-6FE7-4138-905A-DBCD2008AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C71E48C-6FE7-4138-905A-DBCD2008AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E3B5A9-4887-44F9-B2EA-85BFB6345A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E3B5A9-4887-44F9-B2EA-85BFB6345A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E3B5A9-4887-44F9-B2EA-85BFB6345A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E3B5A9-4887-44F9-B2EA-85BFB6345A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F613DF-EC05-4758-80C2-65749EFB5EA5}
+	EndGlobalSection
+EndGlobal
